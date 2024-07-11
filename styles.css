@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body {
+  background-color: #f2e7c4;
+}
+h1 {
+  color: #090126;
+  text-align: center;
+}
+h1,
+p,
+li {
+  text-align: center;
+}
+p,
+li,
+a:visited {
+  color: #262015;
+}
+
+a:link {
+  color: #d99923;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
